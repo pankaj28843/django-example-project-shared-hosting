@@ -1,0 +1,5 @@
+Django==1.4.3
+argparse==1.2.1
+## FIXME: could not find svn URL in dependency_links for this package:
+flup==1.0.3.dev-20110405
+wsgiref==0.1.2
