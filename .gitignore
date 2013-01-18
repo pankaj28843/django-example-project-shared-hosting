@@ -86,3 +86,7 @@ tramp
 *.un~
 Session.vim
 .netrwhist
+
+
+# custom
+example_website.db
