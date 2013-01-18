@@ -1,6 +1,8 @@
 #Description
 This is an example django project which can be hosted on shared hosting providers.
 
+Currenly hosted on [https://www.alwaysdata.com/](https://www.alwaysdata.com/)
+
 #Installation
 
 ```bash
