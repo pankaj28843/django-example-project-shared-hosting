@@ -21,3 +21,10 @@ python manage.py syncdb
 ```
 
 Now map `www` root for your django website to `public` folder of this project, i.e. `django-example-project/public`
+
+
+#Notes
+
+This poject was created in process of answering two questions on stackoverflow
+ 1. [http://stackoverflow.com/a/14398734/353550](http://stackoverflow.com/a/14398734/353550)
+ 2. [http://stackoverflow.com/a/14400206/353550](http://stackoverflow.com/a/14400206/353550)
